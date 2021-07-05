@@ -1,4 +1,4 @@
-# Gitチュートリアル
+# Git master分支
 
   - feature-A
   - fix-B
